@@ -1,6 +1,6 @@
 import time
 import tkinter as tk
-#EthicalByteMaster
+# @EthicalByteMaster
 
 class DigitalClock(tk.Tk):
     def __init__(self):
